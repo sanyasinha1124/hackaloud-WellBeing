@@ -1,0 +1,83 @@
+
+
+.diseaseContainer {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+img {
+    max-width: 400px;
+}
+
+
+/* MAIN PAGE */
+
+.mainContainer {
+    background-color: #ffffff;
+    padding: 50px;
+}
+
+.WelcomeContainer {
+    height: 600px;
+    justify-content: center;
+}
+
+.textContainer {
+    padding: 200px 20px 200px 20px;
+}
+
+
+
+
+
+/* extra */
+
+.flex1 {
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+img {
+    max-width: 400px;
+}
+
+.disease12{
+    gap: 15%;
+    text-align: inherit;
+}
+
+.disease1 .disease2{
+    width: 70%;
+    gap: 20%;
+    justify-content: space-around;
+}
+
+.content{
+    margin: 0px 100px 0px 100px;
+}
+
+.imageContainer{
+    max-width: 400px;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.mainImages{
+    max-width: 150%;
+}
+
+.learnmoreButton{
+    margin-top: 40px;
+} 
+
+h3 {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+}

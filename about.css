@@ -1,0 +1,48 @@
+
+
+/* MAIN PAGE */
+
+
+.mainContainer {
+    background-color: #ffffff;
+    padding: 50px 100px 50px 100px;
+}
+
+.HelloContainer {}
+
+.WelcomeContainer {
+    justify-content: left;
+    text-align: left;
+}
+
+.WelcomeContainer1 {
+    margin-top: 80px;
+    height: 600px;
+    flex-direction: row-reverse;
+    justify-content: right;
+    text-align: right;
+}
+
+
+.textContainer {
+    padding: 100px 40px 200px 0px;
+    margin: 10px;
+    text-align: justify;
+}
+
+
+
+.imageContainer{
+    width: 200%;
+}
+.docimage{
+    /* height: 500px;
+    width: 205%; */
+
+}
+
+h3 {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+}
+
+
